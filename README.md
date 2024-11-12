@@ -16,6 +16,10 @@ Le responsable de mon équipe, **Marc**, un chercheur en économie de la santé 
 3. **Exploration de Notebooks Python et R** : Utiliser les ressources préparées par mon prédécesseur, **Julien**, qui a laissé un notebook contenant les étapes d'analyse à suivre en Python ou en R. Mon choix de langage se portera sur celui avec lequel je suis le plus à l’aise pour cette étude.
 4. **Enrichissement de l'Analyse** : Ajouter des analyses complémentaires jugées pertinentes pour approfondir l’étude et proposer des insights supplémentaires sur la sous-nutrition mondiale.
 
+## Aperçu de l'entreprise
+
+![Aperçu du site web](images/DA_projet4.PNG)
+
 ## Étapes du Projet
 
 ### Étape 1 : Préparation et Exploration des Données
