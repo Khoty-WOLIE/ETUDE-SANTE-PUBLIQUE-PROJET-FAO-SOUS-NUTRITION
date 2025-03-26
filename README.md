@@ -41,14 +41,14 @@ L’objectif de ce projet était de contribuer à une **étude mondiale sur la s
 
 ## 📂 Livrables
 
-- **Notebook Python ou R** avec l’analyse complète
+- **Notebook Python** avec l’analyse complète
 - **PowerPoint finalisé** prêt à être présenté aux parties prenantes
 - **Dictionnaire des données** et glossaire pour accompagner l’analyse
 - **Fichier ZIP de données FAO** utilisé pour l’étude
 
 ## 🛠️ Compétences mobilisées
 
-- Exploration et visualisation de données (Python ou R)
+- Exploration et visualisation de données avec Python
 - Communication visuelle des résultats (PowerPoint)
 - Analyse de données massives dans un contexte de santé publique
 - Compréhension des enjeux de **sécurité alimentaire mondiale**
